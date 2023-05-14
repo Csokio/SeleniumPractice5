@@ -27,7 +27,7 @@ public class AlertPage extends Pages{
             if(style.equals("display: block;")){
                 WebElement button = row.findElement(By.xpath("./button"));
                 message = row.getText().replace(button.getText(), "");
-                row.findElement(By.xpath("./button")).click();
+                button.click();
             }
         }
         return message.trim();
