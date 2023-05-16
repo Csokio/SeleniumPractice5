@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"broken","Tue May 16 12:36:52 GMT 2023","Tue May 16 12:36:52 GMT 2023","9","","AlertTest","","AlertTest","testAlertMessage","testAlertMessage()",""
+"broken","Tue May 16 12:36:55 GMT 2023","Tue May 16 12:36:55 GMT 2023","1","","TableTest","","TableTest","testAges","testAges()",""
+"passed","Tue May 16 12:36:52 GMT 2023","Tue May 16 12:36:55 GMT 2023","2770","","ApiTest","","ApiTest","testStatusWebsite","testStatusWebsite()",""
